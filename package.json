@@ -1,0 +1,31 @@
+{
+  "name": "hapi-vtree",
+  "version": "0.1.0",
+  "description": "hapi.js plugin for replying with Virtual DOM.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkochan/hapi-vtree.git"
+  },
+  "keywords": [
+    "hapi",
+    "virtual-dom",
+    "vtree"
+  ],
+  "author": {
+    "name": "Zoltan Kochan",
+    "email": "zoltan.kochan@gmail.com",
+    "url": "http://kochan.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkochan/hapi-vtree/issues"
+  },
+  "homepage": "https://github.com/zkochan/hapi-vtree#readme",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
+  "dependencies": {
+    "vdom-to-html": "^2.1.1"
+  }
+}
