@@ -26,6 +26,6 @@
     "registry": "http://registry.npmjs.org"
   },
   "dependencies": {
-    "vdom-to-html": "^2.1.1"
+    "vdom-to-html": "^2.3.1"
   }
 }
